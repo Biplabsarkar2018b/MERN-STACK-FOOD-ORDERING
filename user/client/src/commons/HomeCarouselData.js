@@ -37,5 +37,5 @@ export const homeCarousalData = [
     },
   ];
 
-  export const BASE_URL = "http://localhost:8000"
+  export const BASE_URL = "https://mern-stack-food-ordering.vercel.app"
   
